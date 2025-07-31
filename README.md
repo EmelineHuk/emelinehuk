@@ -2,7 +2,7 @@
 
 **`Developer Back-End`**
 
-Back-End Developer in transition, with a degree in Biotechnology and currently studying Systems Analysis and Development at PUCPR. I am improving my skills in Python, Flutter, Power BI and Back-End development.
+Full-stack developer currently studying Systems Analysis and Development at PUCPR. I work as an Artificial Intelligence Analyst, focusing on developing applications that integrate automation, data analysis, and intuitive interfaces. I've specialized in technologies such as Python, Flutter, Power BI, and frameworks.
 
 ---
 <div> 
