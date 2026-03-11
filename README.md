@@ -2,7 +2,7 @@
 
 **`Developer Back-End`**
 
-Full-stack developer currently studying Systems Analysis and Development at PUCPR. I work as an Artificial Intelligence Analyst, focusing on developing applications that integrate automation, data analysis, and intuitive interfaces. I've specialized in technologies such as Python, Flutter, Power BI, and frameworks.
+Developer working as an Artificial Intelligence Analyst, developing solutions that combine automation, data analysis, and intuitive user interfaces. I also have experience building solutions with Microsoft Power Platform, including app development with Power Apps, process automation with Power Automate, and dashboard creation with Power BI, with a focus on improving processes and productivity.
 
 ---
 <div> 
